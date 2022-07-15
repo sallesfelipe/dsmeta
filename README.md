@@ -6,7 +6,8 @@ Tecnologias usadas:
 
 - HTML
 - CSS
-- JS
+- JavaScript
+- TypeScript
 - REACT
 - JAVA
 - SPRING
